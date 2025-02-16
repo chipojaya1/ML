@@ -4,15 +4,10 @@ This project focuses on analyzing and predicting bike availability at the 22nd &
 
 ### Dataset
 The dataset consists of bike trip data from February to April 2024, including:
-
-Pickups (PU_ct): Number of bikes picked up at the station.
-
-Dropoffs (DO_ct): Number of bikes dropped off at the station.
-
-Weather features: (Optional, if available) Temperature, precipitation, etc.
-
-Temporal features: Hour, day of the week, weekend indicator.
-
+- Pickups (PU_ct): Number of bikes picked up at the station.
+- Dropoffs (DO_ct): Number of bikes dropped off at the station.
+- Weather features: (Optional, if available) Temperature, precipitation, etc.
+- Temporal features: Hour, day of the week, weekend indicator.
 The dataset is preprocessed to handle missing values, encode categorical variables, and create new features.
 
 ### Tasks Overview
